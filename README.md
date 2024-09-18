@@ -4,9 +4,9 @@
 - Estudiante de Ciencias de la computación 💻
 - Interés en el Machine Learning y Ciencia de Datos.
 
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white(www.linkedin.com/in/asguevarao))
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/asguevarao)
 
-![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white(www.kaggle.com/andrsguevaraortiz))
+[![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](www.kaggle.com/andrsguevaraortiz)
 
 ## Sobre mí:
 
