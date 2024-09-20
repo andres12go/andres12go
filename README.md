@@ -5,7 +5,6 @@
 - Interés en el Machine Learning y Ciencia de Datos.
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/asguevarao)
-
 [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](www.kaggle.com/andrsguevaraortiz)
 
 ## Sobre mí:
@@ -19,7 +18,6 @@
 ## Herramients de programación:
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 <!--
 **andres12go/andres12go** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
